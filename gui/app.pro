@@ -111,6 +111,7 @@ HEADERS += advdlg.h
 HEADERS += appname.h
 HEADERS += babeldata.h
 HEADERS += donate.h
+HEADERS += dpencode.h
 HEADERS += filterdata.h
 HEADERS += filterdlg.h
 HEADERS += filterwidgets.h
@@ -121,6 +122,7 @@ HEADERS += formatload.h
   HEADERS += gpx.h
 }
 HEADERS += help.h
+HEADERS += latlng.h
 HEADERS += mainwindow.h
 !disable-mappreview {
   HEADERS += map.h

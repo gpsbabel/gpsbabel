@@ -113,6 +113,7 @@ set(HEADERS
   appname.h
   babeldata.h
   donate.h
+  dpencode.h
   filterdata.h
   filterdlg.h
   filterwidgets.h
@@ -121,6 +122,7 @@ set(HEADERS
   gmapdlg.h
   gpx.h
   help.h
+  latlng.h
   mainwindow.h
   map.h
   optionsdlg.h
